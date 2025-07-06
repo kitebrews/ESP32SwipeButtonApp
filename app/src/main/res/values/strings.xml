@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ESP32SwipeApp</string>
+    <string name="accessibility_service_description">ESP32 Swipe Accessibility Service</string>
+</resources>
